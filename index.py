@@ -1,2 +1,2 @@
 def list():
-    return 'hello world'
+    return 'hello world!'
