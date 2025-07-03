@@ -29,14 +29,16 @@ cd todo-list-python
 python todo.py
 ```
 
+<br/>
+
 🎮 Interface (via terminal)
 Ao rodar o programa, você verá o seguinte menu:<br/>
-[1] - Adicionar nova tarefa
-[2] - Mostrar tarefas
-[3] - Completar uma tarefa
-[4] - Atualizar tarefa
-[5] - Deletar tarefas concluídas
-[6] - Sair
+[1] - Adicionar nova tarefa<br/>
+[2] - Mostrar tarefas<br/>
+[3] - Completar uma tarefa<br/>
+[4] - Atualizar tarefa<br/>
+[5] - Deletar tarefas concluídas<br/>
+[6] - Sair<br/>
 
 ✅ Exemplo de saída
 📋 LISTA DE TAREFAS
