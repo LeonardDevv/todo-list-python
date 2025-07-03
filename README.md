@@ -30,7 +30,7 @@ python todo.py
 ```
 
 🎮 Interface (via terminal)
-Ao rodar o programa, você verá o seguinte menu:
+Ao rodar o programa, você verá o seguinte menu:<br/>
 [1] - Adicionar nova tarefa
 [2] - Mostrar tarefas
 [3] - Completar uma tarefa
