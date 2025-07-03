@@ -40,22 +40,30 @@ Ao rodar o programa, você verá o seguinte menu:<br/>
 [5] - Deletar tarefas concluídas<br/>
 [6] - Sair<br/>
 
-✅ Exemplo de saída
-📋 LISTA DE TAREFAS
-[ ] - Estudar Python
-[X] - Ir à academia
-[ ] - Fazer o almoço
+<br/>
+
+✅ Exemplo de saída<br/>
+📋 LISTA DE TAREFAS<br/>
+[ ] - Estudar Python<br/>
+[X] - Ir à academia<br/>
+[ ] - Fazer o almoço<br/>
+
+<br/>
 
 🔐 Observações
 Todas as tarefas possuem um ID único gerado automaticamente.
 
+<br/>
+
 Apenas o título da tarefa é exibido, junto a um checkbox indicando se ela está concluída ou não.
+
+<br/>
 
 As tarefas concluídas são removidas apenas com a opção [5].
 
+<br/>
 
-👨‍💻 Autor
-Desenvolvido por Leonardo Fernandes 🐍
+👨‍💻 Desenvolvido por Leonardo Fernandes 🐍
 GitHub: @LeonardDevv
 
 
